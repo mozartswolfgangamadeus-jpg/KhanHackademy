@@ -1,0 +1,13 @@
+{
+  "name": "khanvision",
+  "version": "1.0.0",
+  "description": "Khan Academy Math Assistant",
+  "type": "module",
+  "scripts": {
+    "build": "rollup -c && node build.js"
+  },
+  "devDependencies": {
+    "rollup": "^4.0.0"
+  },
+  "license": "GPL-3.0"
+}
